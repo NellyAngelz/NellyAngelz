@@ -37,7 +37,7 @@
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=nellyangelz&theme=jolly&text_color=fc84ec&hide_border=true&bg_color=30,c47cf4,1c1464" />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nellyangelz&layout=donut&theme=jolly&text_color=bf6aed&hide_border=true&bg_color=20,1c1464,c47cf4"/>
 </p>
-<img align="middle" src="https://lanyard.cnrad.dev/api/1124139428265336832?bg=20,1c1464,c47cf4d&borderRadius=5px&hideDiscrim=true&showDisplayName=true&idleMessage=Available" />
+<img align="center" src="https://lanyard.cnrad.dev/api/1124139428265336832?bg=20,1c1464,c47cf4d&borderRadius=5px&hideDiscrim=true&showDisplayName=true&idleMessage=Available" />
 <!--
 **NellyAngelz/NellyAngelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
