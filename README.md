@@ -39,8 +39,6 @@
 </p>
 <a href="https://discord.com/users/1124139428265336832"><img align="left"
         src="https://lanyard.cnrad.dev/api/1124139428265336832?bg=23283d&borderRadius=5px&hideDiscrim=true?showDisplayName=true?idleMessage=Available" /></a>
-
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1124139428265336832 )](https://discord.com/users/1124139428265336832)
 <!--
 **NellyAngelz/NellyAngelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
