@@ -17,7 +17,6 @@
 > 🎨UI Designing
 
 </p>
-<br>
 <p>
   Frameworks and languages<br>
   <ul>
