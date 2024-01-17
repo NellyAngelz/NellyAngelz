@@ -13,7 +13,7 @@
 > ⚙️Back-end Development
 > 
 > 🎨UI Designing
-  <a float="left" href="https://discord.com/users/1124139428265336832"><img align="left"
+<a href="https://discord.com/users/1124139428265336832"><img align="right"
         src="https://lanyard.cnrad.dev/api/1124139428265336832?bg=20,1c1464,c47cf4d&borderRadius=5px&hideDiscrim=true&showDisplayName=true&idleMessage=Available" /></a>
 </p>
 <p>
