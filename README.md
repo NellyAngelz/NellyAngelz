@@ -34,12 +34,12 @@
   </ul>
 </p>
 <p justify-content="space-between" align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=killxrx&theme=jolly&text_color=fc84ec&hide_border=true&bg_color=30,c47cf4,1c1464" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=killxrx&layout=donut&theme=jolly&text_color=bf6aed&hide_border=true&bg_color=20,1c1464,c47cf4"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=nellyangelz&theme=jolly&text_color=fc84ec&hide_border=true&bg_color=30,c47cf4,1c1464" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nellyangelz&layout=donut&theme=jolly&text_color=bf6aed&hide_border=true&bg_color=20,1c1464,c47cf4"/>
 </p>
   
 <!--
-**KILLXRX/KILLXRX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NellyAngelz/NellyAngelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
