@@ -6,9 +6,10 @@
   Hi! I'm Nelly, A freelancer self-taught programmer.<br>
   I have 3 years of experience however I only started using **GitHub** very recently.<br>
   ## Interests
-> 🎶Music
-> >   <a href="https://discord.com/users/1124139428265336832"><img align="right"
+<a href="https://discord.com/users/1124139428265336832"><img align="right"
         src="https://lanyard.cnrad.dev/api/1124139428265336832?bg=20,1c1464,c47cf4d&borderRadius=5px&hideDiscrim=true&showDisplayName=true&idleMessage=Available" /></a>
+> 🎶Music
+> 
 > 💻Coding
 >
 > ⚙️Back-end Development
