@@ -5,7 +5,6 @@
  
   Hi! I'm Nelly, A freelancer self-taught programmer.<br>
   I have 3 years of experience however I only started using **GitHub** very recently.<br>
-    
   ## Interests
 > 🎶Music
 > 
@@ -14,7 +13,6 @@
 > ⚙️Back-end Development
 > 
 > 🎨UI Designing
-
 </p>
 <p>
   Frameworks and languages<br>
