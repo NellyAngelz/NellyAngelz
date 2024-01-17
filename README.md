@@ -7,7 +7,6 @@
   I have 3 years of experience however I only started using **GitHub** very recently.<br>
     
   ## Interests
-
 > 🎶Music
 > 
 > 💻Coding
